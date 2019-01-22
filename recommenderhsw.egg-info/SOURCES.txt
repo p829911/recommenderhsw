@@ -1,8 +1,0 @@
-README.md
-setup.cfg
-setup.py
-recommenderhsw.egg-info/PKG-INFO
-recommenderhsw.egg-info/SOURCES.txt
-recommenderhsw.egg-info/dependency_links.txt
-recommenderhsw.egg-info/requires.txt
-recommenderhsw.egg-info/top_level.txt
