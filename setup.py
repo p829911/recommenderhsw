@@ -7,7 +7,7 @@ setup(
     author          = 'Seungwoo Hyun',
     author_email    = 'p829911@gmail.com',
     url             = 'https://github.com/p829911', 
-    download_url    = 'https://github.com/p829911/recommenderhsw 
+    download_url    = 'https://github.com/p829911/recommenderhsw', 
     install_requires= ["numpy", "pandas", "scipy"],
     packages        = find_packages(),
     keywords        = ["recommender"],
